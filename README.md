@@ -1,11 +1,10 @@
-# Hello, I'm Ugochukwu Peter
+# Hello, I'm Peter
 <a href="https://linkedin.com/in/peter-okonye-22b08830a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+As a graduate of Intelligence and security studies, I`m highly invested in researching into emerging technologies and crime trends with a drive to addressing intricate problems.
 
-I am a Correctional Officer with a curiosity for emerging technology and a drive to addressing intricate problems.
 
-
-I yearn to apply my analytic skills and enthusiasm for technology to help organizations secure their digital enviroment.  I am particularly interested in Security operations which would involve conducting investigations and implementing preventive measures.
+I yearn to apply my creative and analytic mind to the world of cybersecurity and help organizations secure their digital enviroment.  I am eager to help protect sensitive information and uphold cybersecurity standards as a beginner analyst
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
