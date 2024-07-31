@@ -52,5 +52,5 @@ I yearn to apply my creative and analytic mind to the world of cybersecurity and
 </div>
 
 ## Projects
-- Detection Lab
+- Security Audit
 - SOC Automation Project
