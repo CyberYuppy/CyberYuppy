@@ -52,5 +52,5 @@ I yearn to apply my creative and analytic mind to the world of cybersecurity and
 </div>
 
 ## Projects
-- <a href="https://github.com/CyberYuppy/Security-Audit">Security Audit</a>
+- <a href="https://github.com/CyberYuppy/Security-Audit-">Security Audit</a>
 - SOC Automation Project
