@@ -54,6 +54,6 @@ I yearn to apply my creative and analytic mind to the world of cybersecurity and
 ## Projects
 - <a href="https://github.com/CyberYuppy/Security-Audit-">Security Audit</a>
 - SOC Automation Project
-- File permission and Access control in Linux
+- <a href="https://github.com/CyberYuppy/File-permission-and-Access-control-in-Linux">File permission and Access control in Linux
 - Data filtering and Querry optimization using SQL
 - Creating a python algorithm 
