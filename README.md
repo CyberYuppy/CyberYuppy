@@ -14,7 +14,7 @@ I yearn to apply my creative and analytic mind to the world of cybersecurity and
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Linux         | <a href="https://github.com/CyberYuppy/File-permission-and-Access-control-in-Linux">Linux Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Structured Query Language      |<a href="https://github.com/CyberYuppy/Data-filtering-and-Query-optimization-using-SQL">SQL Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -55,5 +55,5 @@ I yearn to apply my creative and analytic mind to the world of cybersecurity and
 - <a href="https://github.com/CyberYuppy/Security-Audit-">Security Audit</a>
 - SOC Automation Project
 - <a href="https://github.com/CyberYuppy/File-permission-and-Access-control-in-Linux">File permission and Access control in Linux
-- Data filtering and Querry optimization using SQL
+- <a href="https://github.com/CyberYuppy/Data-filtering-and-Query-optimization-using-SQL">Data filtering and Querry optimization using SQL
 - Creating a python algorithm 
