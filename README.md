@@ -52,7 +52,6 @@ I yearn to apply my analytic mind to the world of cybersecurity and help organiz
 
 ## Projects
 - <a href="https://github.com/CyberYuppy/Security-Audit-">Security Audit</a>
-- SOC Automation Project
 - <a href="https://github.com/CyberYuppy/File-permission-and-Access-control-in-Linux">File permission and Access control in Linux
 - <a href="https://github.com/CyberYuppy/Data-filtering-and-Query-optimization-using-SQL">Data filtering and Querry optimization using SQL
-- Creating a python algorithm 
+- <a href="https://github.com/CyberYuppy/Creating-a-python-algorithm-">Creating a python algorithm 
