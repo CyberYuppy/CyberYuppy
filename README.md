@@ -15,7 +15,7 @@ I yearn to apply my analytic mind to the world of cybersecurity and help organiz
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Linux         | <a href="https://github.com/CyberYuppy/File-permission-and-Access-control-in-Linux">Linux Lab|
 | Structured Query Language      |<a href="https://github.com/CyberYuppy/Data-filtering-and-Query-optimization-using-SQL">SQL Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Python Programming Language                  | <a href="https://github.com/CyberYuppy/Creating-a-python-algorithm">Python Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
