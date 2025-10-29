@@ -3,7 +3,7 @@
 
 As a graduate of Intelligence and Security Studies, I am passionate about exploring emerging crime trends and technologies to address modern security challenges. I aim to apply my analytical mindset and research background to the field of cybersecurity, helping organizations strengthen their digital defenses and protect sensitive information.
 
-I am currently developing hands-on skills in Splunk, SQL, Python, and Linux, while deepening my understanding of threat intelligence and digital forensics. My goal is to grow into a cybersecurity analyst role where I can apply my analytical skills, technical knowledge, and dedication to protecting digital environment
+I am currently developing hands-on skills in Splunk, SQL, Python, and Linux, while deepening my understanding of threat intelligence and digital forensics. My goal is to grow into a cybersecurity analyst role where I can apply my analytical skills, technical knowledge, and dedication to protecting the digital environment
 
 
 ## Skills
@@ -44,5 +44,5 @@ I am currently developing hands-on skills in Splunk, SQL, Python, and Linux, whi
 ## Projects
 - <a href="https://github.com/CyberYuppy/Security-Audit-">Security Audit</a>
 - <a href="https://github.com/CyberYuppy/File-permission-and-Access-control-in-Linux">File permission and Access control in Linux
-- <a href="https://github.com/CyberYuppy/Data-filtering-and-Query-optimization-using-SQL">Data filtering and Querry optimization using SQL
+- <a href="https://github.com/CyberYuppy/Data-filtering-and-Query-optimization-using-SQL">Data filtering and Query optimization using SQL
 - <a href="https://github.com/CyberYuppy/Creating-a-python-algorithm-">Creating a python algorithm 
