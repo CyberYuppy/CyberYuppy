@@ -32,14 +32,9 @@ I am currently developing hands-on skills in Splunk, SQL, Python, and Linux, whi
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
 ## Projects
 - <a href="https://github.com/CyberYuppy/Security-Audit-">Security Audit</a>
