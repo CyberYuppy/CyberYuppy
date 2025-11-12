@@ -1,5 +1,5 @@
 # Hello, I'm Peter
-<a href="https://linkedin.com/in/peter-okonye-22b08830a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/peterokonye-f28/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 As a graduate of Intelligence and Security Studies, I am passionate about exploring emerging crime trends and technologies to address modern security challenges. I aim to apply my analytical mindset and research background to the field of cybersecurity, helping organizations strengthen their digital defenses and protect sensitive information.
 
